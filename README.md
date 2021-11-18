@@ -26,7 +26,7 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 **Atuação:** Back-end, mas arrisca em atuar no Front-end
 <br><br>
 **País:** Brasil.
-<br><br>
+<br>
 
 **UF:** Paraíba. 
 
@@ -68,7 +68,12 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 -->
-   
+ 
+<!--
+pode ser usado par contar as visitas no perfil
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Edenilson-Silva-Souza/count.svg" /></p>
+-->
+  
 ### Contatos:
 <a href="https://www.instagram.com/edenilson_ddr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
