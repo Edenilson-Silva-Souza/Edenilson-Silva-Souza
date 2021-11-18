@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # <p align="center"> Welcome girl and boy <br> **(<sup>ô</sup>o<sup>ô</sup>)**   **(<sup>=ô</sup>o<sup>ô=</sup>)**</p>
-
+-->
 Edenilson é um estudante em engenharia de software no **IFPB**.
 
 
@@ -56,6 +57,7 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 <div>
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+-->
 <a href="https://www.instagram.com/edenilson_ddr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
--->
+
