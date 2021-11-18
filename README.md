@@ -1,4 +1,5 @@
-
+  
+  <!-- Quadro de porcentagem das linguagens mais usadas -->
 
 <!--
 **Edenilson-Silva-Souza/Edenilson-Silva-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +52,15 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
   
   
   
+  <!-- Tabela de estatistica-->
+  
+ <div>
+<a href="https://github.com/Edenilson-Silva-Souza">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenilson-Silva-Souza&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edenilson-Silva-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
   <!--
 ### Contatos:
 
@@ -58,6 +68,8 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 -->
+   
+### Contatos:
 <a href="https://www.instagram.com/edenilson_ddr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
