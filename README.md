@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Edenilson é um estudante em engenharia de software no **IFPB** . <br><br>
+# <p align="center"> Welcome girl and boy <br> **(<sup>ô</sup>o<sup>ô</sup>)**   **(<sup>=ô</sup>o<sup>ô=</sup>)**</p>
+
+Edenilson é um estudante em engenharia de software no **IFPB**.
+
 
 **Interesse:** Sistemas de IA e criação de Jogos. <br><br>
 **Atuação:** Back-end, mas arrisca em atuar no Front-end
@@ -25,7 +28,7 @@ Edenilson é um estudante em engenharia de software no **IFPB** . <br><br>
 
 **UF:** Paraíba. 
 
-<br><br>
+
 **Linguagens de interesse:** C, JavaScript, CSS, HTML, PHP.
 <br><br>
 
