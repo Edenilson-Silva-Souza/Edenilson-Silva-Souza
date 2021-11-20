@@ -53,7 +53,6 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
   
   
   <!-- Tabela de estatistica-->
-  
  <div>
 <a href="https://github.com/Edenilson-Silva-Souza">
 <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenilson-Silva-Souza&layout=compact&langs_count=7&theme=dracula"/>
