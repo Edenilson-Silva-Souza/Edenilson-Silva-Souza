@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # <p align="center"> Welcome girl and boy <br> **(<sup>ô</sup>o<sup>ô</sup>)**   **(<sup>=ô</sup>o<sup>ô=</sup>)**</p>
 -->
 Edenilson é um estudante em engenharia de software no **IFPB**.
-
+-Eu ainda sou iniciante e conheço pouco dessa área >.<
 
 **Interesse:** Sistemas de IA e criação de Jogos. <br><br>
 **Atuação:** Back-end, mas arrisca em atuar no Front-end
