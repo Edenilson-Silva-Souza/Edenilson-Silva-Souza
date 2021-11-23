@@ -72,8 +72,8 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 pode ser usado par contar as visitas no perfil
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Edenilson-Silva-Souza/count.svg" /></p>
 -->
-  
+ <!-- 
 ### Contatos:
 <a href="https://www.instagram.com/edenilson_ddr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+-->
