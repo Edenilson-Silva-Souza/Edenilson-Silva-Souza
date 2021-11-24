@@ -33,7 +33,7 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 
 **Linguagens de interesse:** C, JavaScript, CSS, HTML, PHP.
 <br><br>
-
+<!--
 **Fatos engraçados:**
 
    Hoje é engraçado, eu estava usando HTML como linguagem de programação, usando vários links. Deu um trabalhão fazer aquele jogo da velha usando apenas links.
@@ -49,7 +49,7 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
  Levando um tempo considerável para me interessar de novo, tinha meus motivos, mas agora, vejo que, com qualquer linguagem você é capaz de fazer mágica.
  
  Espero sempre poder compartilhar o que eu aprender, e usar esta rede social github para divulgar alguns trabalhos, e possivelmente, poder trabalhar em equipe.
-  
+  -->
   
   
   <!-- Tabela de estatistica-->
