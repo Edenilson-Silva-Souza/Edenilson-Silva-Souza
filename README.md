@@ -31,7 +31,7 @@ Edenilson é um estudante em engenharia de software no **IFPB**.
 **UF:** Paraíba. 
 
 
-**Linguagens de interesse:** C, JavaScript, CSS, HTML,mysql, PHP.
+**Linguagens de interesse:** C, JavaScript, CSS, HTML,mysql, PHP, Java.
 <br><br>
 <!--
 **Fatos engraçados:**
