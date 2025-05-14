@@ -32,7 +32,7 @@ Estudante de análise e desenvolvimento de software no **IFPB** .
 **UF:** Paraíba. 
 
 
-**Linguagens de interesse:** C, JavaScript, CSS, HTML,mysql, PHP, Java.
+**Linguagens de interesse:** C, JavaScript, CSS, HTML, sql, Java.
 <br><br>
 <!--
 **Fatos engraçados:**
